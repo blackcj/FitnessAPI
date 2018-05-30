@@ -3,5 +3,5 @@
   "version": "0.1.0",
   "description": "API documentation for a Fitness API",
   "title": "Fitness API Documentation",
-  "url" : "https://blackcj.com/fitness"
+  "url" : "localhost:8000"
 }

@@ -51,11 +51,13 @@ Create a `config.php` file using the `config-sample.php` as a template. Pass the
 
 ## API Documentation
 
-Documentation can be found in the `apidoc` folder. Run the following to re-generate API documentation:
+Run the following to generate API documentation:
 
 ```
 apidoc -i ./ -e apidoc/ -o apidoc/
 ```
+
+After running the command, documentation can be found in the `apidoc` folder.
 
 ## RESOURCES
 
