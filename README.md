@@ -45,6 +45,10 @@ php -S localhost:8000
 
 Create a `config.php` file using the `config-sample.php` as a template. Pass the `X-API-KEY` header you set in the `config.php` file with all requests.
 
+### Postman Configuration
+
+![postman screenshot](images/postman-get-heartrate.png)
+
 ## API Documentation
 
 Documentation can be found in the `apidoc` folder. Run the following to re-generate API documentation:
